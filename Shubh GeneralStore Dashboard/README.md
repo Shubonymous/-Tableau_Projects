@@ -37,7 +37,7 @@ You can view Shubh General Store Sales Analytics Dashboard on my Tableau Public 
 
 ##  Shubh General Store Sales Analytics Dashboard
 
-<img src="20PNG.PNG" alt="SS 3"/>
+<img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Shubh%20GeneralStore%20Dashboard/Screenshots/SGS_png.PNG" alt="SS 3"/>
 
 
 
