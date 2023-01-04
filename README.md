@@ -24,7 +24,7 @@ https://public.tableau.com/app/profile/shubham.singh2130
 
 ### 3. Shubh General Store Sales Analytics Dashboard
 
-<img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Shubh%20GeneralStore%20Dashboard/Screenshots/SGS_png.PNG" alt="SS 3"/>
+<img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Shubh%20GeneralStore%20Dashboard/Screenshots/SGS_png.PNG" alt="SS 4"/>
 
 
 
