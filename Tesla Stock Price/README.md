@@ -32,7 +32,7 @@ You can view Tesla Stock Price Analytics Dashboard on my Tableau Public Profile 
 
 ##  Tesla Stock Price Analytics Dashboard
 
-<img src="20Image.PNG" alt="SS 2"/>
+<img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
 
 
 
