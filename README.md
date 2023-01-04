@@ -8,7 +8,7 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   </pre>
 
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
-https://public.tableau.com/profile/utkarsh.yadav6297#!/
+https://public.tableau.com/app/profile/shubham.singh2130
 
 
 
@@ -16,15 +16,15 @@ https://public.tableau.com/profile/utkarsh.yadav6297#!/
 
 ### 1. Amazon Shipping Analytics Dashboard
 
-<img src="/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
+<img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
 ### 2. Tesla Stock Price Dashboard
 
-<img src="/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
+<img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
 
-### 3. UT Mart Sales Analytics Dashboard
+### 3. Shubh General Store Sales Analytics Dashboard
 
-<img src="/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
+<img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Shubh%20GeneralStore%20Dashboard/Screenshots/SGS_png.PNG" alt="SS 3"/>
 
 
 
