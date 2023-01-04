@@ -27,7 +27,7 @@ He has given us csv files from which we have to create a Dashboard for his quick
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
 
-You can view Tesla Stock Price Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/
+You can view Tesla Stock Price Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/app/profile/shubham.singh2130
 
 
 ##  Tesla Stock Price Analytics Dashboard
