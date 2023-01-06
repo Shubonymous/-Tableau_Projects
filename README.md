@@ -1,10 +1,9 @@
 # Tableau-Projects
-Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
+Learnt Data Visualization and Data Analytics with Tableau by solving 2 Realistic Analytics Projects.
 
   <pre>
-  1. Amazon Shipping Analytics    
-  2. Tesla Stock Price            
-  3. Shubh General Store Sales Analytics            
+  1. Amazon Shipping Analytics               
+  2. Shubh General Store Sales Analytics            
   </pre>
 
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
@@ -18,11 +17,7 @@ https://public.tableau.com/app/profile/shubham.singh2130
 
 <img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
-### 2. Tesla Stock Price Dashboard
-
-<img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
-
-### 3. Shubh General Store Sales Analytics Dashboard
+### 2. Shubh General Store Sales Analytics Dashboard
 
 <img src="https://github.com/Shubonymous/-Tableau_Projects/blob/main/Shubh%20GeneralStore%20Dashboard/Screenshots/SGS_png.PNG" alt="SS 4"/>
 
@@ -32,7 +27,7 @@ https://public.tableau.com/app/profile/shubham.singh2130
 
 
 
-  - To Create 3 interactive dashboards and publish it online to share
+  - To Create 2 interactive dashboards and publish it online to share
 
   - Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
 
